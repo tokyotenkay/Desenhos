@@ -1,0 +1,62 @@
+.fachada{
+    width: 300px;
+    margin-left: 41%;
+    
+}
+img{
+    width: 300px;
+    margin-left: 41%;
+border-radius: 100%;
+border-color: black;}
+image:hover{
+    border-radius: 0%;
+    width: 400px;
+}
+    
+body{
+    background-image: url(anime\ fundo.gif);
+    width: 1300px;
+    color: black;
+    font-size: x-large;
+    
+}
+h1{
+    color: rgb(4, 187, 187);
+    background-color: brown;
+    text-align: center;
+    width: 30;
+    border-radius: 20%;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ ul{
+    text-align: center;
+ }
+ ol{
+    text-align: center;
+ }
+ a {
+    text-decoration: none;
+ 
+    color: rgb(255, 0, 0);
+    border-radius: 30%;
+ }
+ a:hover{
+    color: blueviolet;
+    background-color: aqua;
+    border: solid;
+ }
+ button{
+    background-color: rgb(117, 5, 5);
+ }
+ .IMAGEM2{
+    margin-left: 50%;
+ }
+.miranda{
+    background-color:transparent;
+    background-image: none;
+}
